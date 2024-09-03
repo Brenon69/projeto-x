@@ -1,6 +1,6 @@
 ## Projeto X
 
-Este é um experimento para aprimorar minhas capacidades de programação para futuros projetos. Eu sou capaz de conquistar o que eu quiser me dedicar a aprender.
+Este é um experimento para aprimorar minhas capacidades de programação para futuros projetos. Eu sou capaz de conquistar o que eu quiser, basta apenas me dedicar a aprender.
 
 [Cursos Gratuitos e Pagos para Aprimoramento](https://www.dio.me/) 📖🧑‍🎓
 
