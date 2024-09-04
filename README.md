@@ -9,3 +9,5 @@ Este é um experimento para aprimorar minhas capacidades de programação para f
 | Brenon Olivetti Rondello | Técnico em Administração - Etec Fernando Prestes |
 | 23 anos | Bacharel em Administração - Anhanguera |
 | brenon.olivetti.rondello@gmail.com | Tecnólogo em Análise e Desenvolvimento de Sistemas - Facens | 
+
+Eu sou um programador e estou aqui para te ajudar a alavancar seu negócio, conte comigo!
